@@ -1,4 +1,24 @@
 
+img { 
+}
+
+body {
+    background-color: #ffffff;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    padding: 10px
+}
+
+p {
+    font-family: "arial", "Helvetica Neue", "Helvetica", "sans-serif";
+    font-size: 16pt;
+    color: #777777;
+}
+
 .footer{
     position: absolute;
     bottom: 0;
@@ -22,20 +42,20 @@
     color: #4aaaa5;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #4aaaa5;
-    padding: 10px
+.portfolio-description {
+    background-color: #4aaaa5;
+    color: #ffffff;
 }
 
-p {
-    font-family: "arial", "Helvetica Neue", "Helvetica", "sans-serif";
-    font-size: 16pt;
-    color: #777777;
+
+.img-thumbnail {
+    width: 465px;
+    height: 262px;
+    margin-bottom: 10px;
 }
 
-img { 
-    padding: 12px;
+#me {
+    width: 200px;
+    height: 200px;
 }
-
 
