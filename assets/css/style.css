@@ -1,5 +1,13 @@
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
-img { 
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #4aaaa5;
+}
+
+.navbar-light .navbar-brand{
+    color:#ffffff
 }
 
 body {
@@ -20,8 +28,8 @@ p {
 }
 
 .footer{
-    position: absolute;
-    bottom: 0;
+    position: absolute  ;
+    bottom: 0px;
     width: 100%;
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
@@ -45,6 +53,7 @@ p {
 .portfolio-description {
     background-color: #4aaaa5;
     color: #ffffff;
+    width: 465px;
 }
 
 
@@ -58,4 +67,3 @@ p {
     width: 200px;
     height: 200px;
 }
-
