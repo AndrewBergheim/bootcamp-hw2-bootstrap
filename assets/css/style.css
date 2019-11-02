@@ -1,0 +1,39 @@
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    color: #dddddd;
+    display: block;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif !important; 
+    flex-shrink: none;
+    padding: 10px;
+}
+
+.nav-link > li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    padding: 10px
+}
+
+p {
+    font-family: "arial", "Helvetica Neue", "Helvetica", "sans-serif";
+    font-size: 16pt;
+    color: #777777;
+}
+
+img { 
+    padding: 12px;
+}
