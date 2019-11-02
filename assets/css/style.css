@@ -1,18 +1,9 @@
-.navbar-light{
-    border-bottom: 2px solid #cccccc;
-}
+
 
 a {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.navbar-light .navbar-nav .active>.nav-link{
-    color: #4aaaa5;
-}
-
-.navbar-light .navbar-brand{
-    color:#ffffff
-}
 
 body {
     background-color: #ffffff;
@@ -29,6 +20,13 @@ p {
     font-family: "arial", "Helvetica Neue", "Helvetica", "sans-serif";
     font-size: 16pt;
     color: #777777;
+}
+
+label {
+    font-family: "arial", "Helvetica Neue", "Helvetica", "sans-serif";
+    font-size: 16pt;
+    color: #777777;
+    margin: 10px;
 }
 
 .footer{
@@ -67,7 +65,27 @@ p {
     margin-bottom: 10px;
 }
 
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #4aaaa5;
+}
+
+.navbar-light .navbar-brand{
+    color:#ffffff
+}
+
+
 #me {
     width: 200px;
     height: 200px;
+}
+
+.navbar-light{
+    border-bottom: 2px solid #cccccc;
+}
+
+.btn-primary{
+    margin: 10px;
+    background-color: #4aaaa5;
+    color: #dddddd;
+    border-color: #666666;
 }
