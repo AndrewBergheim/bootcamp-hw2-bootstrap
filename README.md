@@ -1,4 +1,4 @@
-# bootcamp-hw1 by Andrew Bergheim
+# bootcamp-hw2 (Bootstrap Portfolio) by Andrew Bergheim
 
 ## Description
 This is a portfolio that I created as part of my coding bootcamp at the University of Arizona beginning in October 2019. It was created as an exercise
